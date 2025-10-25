@@ -10,7 +10,7 @@ This is a sample Flutter application demonstrating robust state management using
 The primary goal of this project is to showcase a clean, scalable, and testable architecture by separating business logic from the UI. It serves as a practical example for anyone looking to understand and implement BLoC in a Flutter project.
 
 ## ✨ App Demo
-<img width="1080" height="2400" alt="Screenshot_1761401583" src="https://github.com/user-attachments/assets/946a0e2f-37f5-4cf9-bcce-5df255c32001" />
+<img width="400" height="800" alt="Screenshot_1761401583" src="https://github.com/user-attachments/assets/946a0e2f-37f5-4cf9-bcce-5df255c32001" />
 
 
 ## 🚀 Features
